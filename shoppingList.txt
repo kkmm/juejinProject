@@ -1,4 +1,4 @@
 enter
 back
 del
-home
+e
